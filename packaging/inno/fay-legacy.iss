@@ -1,5 +1,5 @@
 #define MyAppName "Fay Legacy"
-#define MyAppVersion "4.4.4"
+#define MyAppVersion "4.8.1"
 #define MyAppPublisher "Fay"
 #define MyAppExeName "fay.exe"
 
